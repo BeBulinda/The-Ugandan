@@ -1,0 +1,20 @@
+---------------------------------------------------------------------
+http://www.staqpesa.com/theugandan/rc_access
+---------------------------------------------------------------------
+Login Credentials
+
+Username:	Staqpesa
+Email:		staqpesa@gmail.com
+Password:	Q7y8zFEvgIQZhq6I9^COWDXa
+Role:		1. Editor (Can publish content & can access theme customizations and settings)
+		2. Author[Recommended] (Can publish content & cannot access theme customizations and settings)/
+		3. Contributer[Recommended] (His/her work needs to be reviewed  & cannot access theme customizations and settings)/
+		4. Subscriber (Can only view elements on default Dashboard & cannot access theme customizations and settings)
+		
+========================================
+Username:	DixonKagurusi
+Email:		dampumuza@gmail.com
+Password:	Q7y8zFEvgIQZhq6I9^COWDXa 
+Role:		Author
+========================================
+
